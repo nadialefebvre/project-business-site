@@ -1,10 +1,3 @@
-# Weekly project for Technigo's bootcamp, week 3
-Task: build a webpage with hero, form and accordion
-
-Tech: HTML, CSS and JavaScript
-
-----
-
 # Week 3: business site
 
 We had this week to create a business webpage with an image or video header, a signup form and an accordion in order to practice image backgrounds and HTML form, and to learn to modify the DOM with JavaScript.
