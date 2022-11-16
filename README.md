@@ -1,4 +1,6 @@
-# Week 3: business site
+# Project Find happiness
+
+Weekly project for Technigo's bootcamp, week 3: build a webpage with hero, form and accordion
 
 We had this week to create a business webpage with an image or video header, a signup form and an accordion in order to practice image backgrounds and HTML form, and to learn to modify the DOM with JavaScript.
 
