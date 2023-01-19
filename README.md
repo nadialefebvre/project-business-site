@@ -12,3 +12,7 @@ If I had more time, I would try to find more efficient ways in my JavaScript fil
 
 ## View it live
 Project deployed here: [Find happiness](https://find-happiness.netlify.app)
+
+<div align="center">
+  <img src="screenshot.jpg" />
+</div>
