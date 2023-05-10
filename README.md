@@ -1,10 +1,17 @@
 # Project Find happiness
 
-Weekly project for Technigo's bootcamp, week 3: build a webpage with hero, form and accordion
+Weekly project for Technigo's bootcamp, week 3: build a webpage with hero, form and accordion (January 2022)
 
-We had this week to create a business webpage with an image or video header, a signup form and an accordion in order to practice image backgrounds and HTML form, and to learn to modify the DOM with JavaScript.
+## Tech stack
+
+- JavaScript
+- HTML
+- CSS
+- Figma
 
 ## The problem
+
+We had this week to create a business webpage with an image or video header, a signup form and an accordion in order to practice image backgrounds and HTML form, and to learn to modify the DOM with JavaScript.
 
 I started by creating the design with Figma, to figure out how I wanted everything to be placed. For the coding, since I am now confortable with creating a webpage, I started with the form. When I felt that I was fine with that, I made the header and after that the two boxes with signup form and accordion. I wanted to use only flexbox this time, so I am more comfortable with this layout. My CSS is structured with mobile first approach, so I used some media queries for screens >1024px. When every required part was there, I tried many JavaScript functions, with quite the results I wanted.
 
